@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.register{
+    width: 500px;
+    margin: 0 auto;
+}
+ body{
+    background: rgb(4,199,250);
+background: linear-gradient(184deg, rgba(4,199,250,1) 0%, rgba(138,31,167,1) 51%);
+ }
+.colorregister{
+    background-color: rgba(12,12,96,1);
+}
+

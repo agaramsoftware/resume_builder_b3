@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgb(85, 9, 133) 100%);
+}
+.wrapper{
+    font-size: 20px;
+    background-color: rgb(204, 202, 202);
+    box-shadow:  20px 20px 60px #3b1746,-20px -20px 60px #48225e;
+    color:rgb(126, 71, 160);
+    width: 70%;
+    margin:0 auto;
+
+}
+h2{
+    text-align: center;
+    margin: 10px;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+input{
+    padding: 8px;
+    /* margin: 10px; */
+    margin: 10px 0px 10px 40px;
+    width: 40%;
+    /* border: none; */
+    background-color: rgb(204, 202, 202);
+    border-color: rgb(85, 9, 133);
+    border-radius: 5px;
+}
+button{
+    padding: 8px;
+    background-color:  rgb(85, 9, 133);
+}
+label{
+    width: 20%;
+    display: inline-block;
+}
+label,h3{
+    margin: 10px 10px  10px 30px;
+}
+.labelwidth{
+    width: 0%;
+    margin: 0;
+}
+.inputwidth{
+
+    width: 2%;
+}
+button{
+    background-color:  rgb(204, 202, 202);
+}
+.submit {
+    background-color: rgb(114, 26, 168);
+    margin: 30px 20px 40px 425px;
+    /* padding: 15px; */
+    border-radius: 5px;
+    color: white;
+
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+.educationtable{
+    padding-right: 10px;
+}
+ th{
+    padding: 10px;
+    font-family: cursive;
+    color: rgb(85, 9, 133);
+ }
+ tr input{
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background-color:  rgb(204, 202, 202);
+ }
+.display{
+    color: white;
+    font-size: large;
+}
+#additem p,#addlan p{
+    padding: 10px;
+    border-radius: 5px;
+    border:2px solid rgb(90, 90, 90);
+    width: 37%;
+    margin: 5px 0px  5px 275px;
+    display: inline-block;
+}
+.log{
+    width: 10%;
+    margin-right: 100px;
+}
